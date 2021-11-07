@@ -1,4 +1,7 @@
 # Scapy
+Scapy is a powerful interactive packet manipulation program. It is able to forge or decode packets of a wide number of protocols, send them on the wire, capture them, match requests and replies, and much more. It can easily handle most classical tasks like scanning, tracerouting, probing, unit tests, attacks or network discovery (it can replace hping, 85% of nmap, arpspoof, arp-sk, arping, tcpdump, tshark, p0f, etc.). It also performs very well at a lot of other specific tasks that most other tools can’t handle, like sending invalid frames, injecting your own 802.11 frames, combining technics (VLAN hopping+ARP cache poisoning, VOIP decoding on WEP encrypted channel, …), etc.
+
+Scapy runs natively on Linux, Windows, OSX and on most Unixes with libpcap (see scapy’s installation page). The same code base now runs natively on both Python 2 and Python 3.
 
 ## Day 01 - 12.03.2019
 ***
