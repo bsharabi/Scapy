@@ -11,12 +11,12 @@ Scapy runs natively on Linux, Windows, OSX and on most Unixes with libpcap (see 
   - [03_Sniff.md](https://github.com/bsharabi/Scapy/tree/master/Introduction%20%26%20install/03_Sniff.md)
 ## Scapy basic & Dns || UDP || TCP
 ***
-  - [00_Scapy - basic exercises.pdf](https://github.com/bsharabi/Scapy/tree/master/Day%2002%20-%2026.03.2019/00_Scapy%20-%20basic%20exercises.pdf)
-  - [01_Scapy - basic exercises answers.pdf](https://github.com/bsharabi/Scapy/tree/master/Day%2002%20-%2026.03.2019/01_Scapy%20-%20basic%20exercises%20answers.pdf)
-  - [02_DNS.md](https://github.com/bsharabi/Scapy/tree/master/Day%2002%20-%2026.03.2019/02_DNS.md)
-  - [03_Dig command.md](https://github.com/bsharabi/Scapy/tree/master/Day%2002%20-%2026.03.2019/03_Dig%20command.md)
-  - [04_udp in tcp-ip.gif](https://github.com/bsharabi/Scapy/tree/master/Day%2002%20-%2026.03.2019/04_udp%20in%20tcp-ip.gif)
-  - [05_DNS with scapy.md](https://github.com/bsharabi/Scapy/tree/master/Day%2002%20-%2026.03.2019/05_DNS%20with%20scapy.md)
+  - [00_Scapy - basic exercises.pdf](https://github.com/bsharabi/Scapy/tree/master/Scapy%20basic%20%26%20DNS%20%26%20UDP%20-%20TCP/00_Scapy%20-%20basic%20exercises.pdf)
+  - [01_Scapy - basic exercises answers.pdf](https://github.com/bsharabi/Scapy/tree/master/Scapy%20basic%20%26%20DNS%20%26%20UDP%20-%20TCP/01_Scapy%20-%20basic%20exercises%20answers.pdf)
+  - [02_DNS.md](https://github.com/bsharabi/Scapy/tree/master/Scapy%20basic%20%26%20DNS%20%26%20UDP%20-%20TCP/02_DNS.md)
+  - [03_Dig command.md](https://github.com/bsharabi/Scapy/tree/master/Scapy%20basic%20%26%20DNS%20%26%20UDP%20-%20TCP/03_Dig%20command.md)
+  - [04_udp in tcp-ip.gif](https://github.com/bsharabi/Scapy/tree/master/Scapy%20basic%20%26%20DNS%20%26%20UDP%20-%20TCP/04_udp%20in%20tcp-ip.gif)
+  - [05_DNS with scapy.md](https://github.com/bsharabi/Scapy/tree/master/Scapy%20basic%20%26%20DNS%20%26%20UDP%20-%20TCP/05_DNS%20with%20scapy.md)
 ## Day 03 - 02.04.2019
 ***
   - [00_byobu.md](https://github.com/bsharabi/Scapy/tree/master/Day%2003%20-%2002.04.2019/00_byobu.md)
